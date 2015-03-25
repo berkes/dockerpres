@@ -1,0 +1,10 @@
+{
+  "name": "Docker",
+  "sections": [
+    {"section":"intro"},
+    {"section":"basics"},
+    {"section":"why"},
+    {"section":"demo"},
+    {"section":"outro"}
+  ]
+}
